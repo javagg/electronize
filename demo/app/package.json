@@ -4,5 +4,8 @@
   "description": "Electron API demos",
   "main": "index.html",
   "author": "Craig Shoemaker <craig@craigshoemaker.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "require-stub": "^2.2.4"
+  }
 }

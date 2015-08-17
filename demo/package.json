@@ -10,7 +10,6 @@
   "author": "Craig Shoemaker <craig@craigshoemaker.net>",
   "license": "MIT",
   "devDependencies": {
-    "electron-prebuilt": "^0.30.0",
     "express": "^4.13.3",
     "node-inspector": "^0.12.2"
   },
