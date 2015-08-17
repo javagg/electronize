@@ -1,0 +1,21 @@
+{
+  "name": "unelectronize",
+  "description": "Unelectronize an electron app",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javagg/unelectronize"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}

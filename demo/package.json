@@ -1,0 +1,20 @@
+{
+  "name": "electron-api-demos-main",
+  "version": "0.0.1",
+  "description": "Main process for Electron API demos",
+  "main": "index.js",
+  "scripts": {
+    "start-debug": "electron --debug=5858 .",
+    "start": "electron ."
+  },
+  "author": "Craig Shoemaker <craig@craigshoemaker.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.0",
+    "express": "^4.13.3",
+    "node-inspector": "^0.12.2"
+  },
+  "dependencies": {
+    "serve-static": "^1.10.0"
+  }
+}
